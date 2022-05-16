@@ -10,6 +10,6 @@ API: https://app.swaggerhub.com/apis-docs/RMSHospitality/RMS_REST_API/1.4.1.1
 2. Agregar información adicional utilizando otros catálogos como property, guest, travel agent.
 3. Sugerir indicadores adicionales.
 
-En el Prueba BI encontrarás el código de ejemplo para la extracción.
+En Prueba BI encontrarás el código de ejemplo para la extracción.
 
 Puedes utilizar la herramienta que sea de tu preferencia, sólo requiero visualizar el código y la visualización final.
