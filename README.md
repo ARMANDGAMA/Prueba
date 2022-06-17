@@ -6,7 +6,7 @@ API: https://app.swaggerhub.com/apis-docs/RMSHospitality/RMS_REST_API/1.4.4.1
 
 ## Instrucciones:
 
-1. Realizar un dashboard donde se muestre la ocupación de las reservas utilizando como dato la fecha de llegada (Arrival Date) y la fecha de salida (Departure Date), consideren la ocupación de cada día no considerando la noche de salida. Para esto utiliza el método "/reservation/search". Sólo utiliza las reservas realizadas este año.
+1. Realizar un dashboard donde se muestre la ocupación de las reservas utilizando como dato la fecha de llegada (Arrival Date) y la fecha de salida (Departure Date), consideren la ocupación de cada día sin tomar en cuenta la noche de salida. Para esto utiliza el método "/reservation/search". Sólo utiliza las reservas realizadas este año.
 2. Agregar información adicional utilizando otros catálogos como property, guest, travel agent.
 3. Sugerir indicadores adicionales.
 
