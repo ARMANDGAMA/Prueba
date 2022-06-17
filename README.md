@@ -2,7 +2,7 @@
 
 ## Fuente de Datos:
 
-API: https://app.swaggerhub.com/apis-docs/RMSHospitality/RMS_REST_API/1.4.1.1
+API: https://app.swaggerhub.com/apis-docs/RMSHospitality/RMS_REST_API/1.4.4.1
 
 ## Instrucciones:
 
@@ -12,4 +12,4 @@ API: https://app.swaggerhub.com/apis-docs/RMSHospitality/RMS_REST_API/1.4.1.1
 
 En Prueba BI encontrarás el código de ejemplo para la extracción.
 
-Puedes utilizar la herramienta que sea de tu preferencia, sólo requiero visualizar el código y la visualización final.
+Puedes utilizar la herramienta que sea de tu preferencia, sólo requiero el código y la visualización final.
